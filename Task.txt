@@ -1,0 +1,2 @@
+Find the minimum element in the array
+Find the maximum element in the array
